@@ -7,3 +7,4 @@ Olá! Bem vindo ao menu "Livro de receitas"
 - Arroz
 - Laranja
 - Gelatina
+- Vinho
