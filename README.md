@@ -9,6 +9,5 @@ Olá! Bem vindo ao menu "Livro de receitas"
 - Feijão
 
 - Arroz
-  =======
 
   
