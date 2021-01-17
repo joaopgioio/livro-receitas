@@ -3,7 +3,6 @@
 Olá! Bem vindo ao menu "Livro de receitas"
 
 - Strogonoff de frango
-- Pavê
 - Feijão
 - Arroz
 - Laranja
